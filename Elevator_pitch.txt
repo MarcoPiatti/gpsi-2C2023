@@ -1,0 +1,10 @@
+¿Te preguntaste alguna vez cuánto control tenés sobre el suministro de agua en tu hogar? 
+¡Hola, soy Marco Piatti! Soy desarrollador de software y estudiante de Ingeniería en Sistemas de Información. 
+
+Muchos propietarios hoy se enfrentan al desafío de no tener información en tiempo real sobre el nivel de su tanque de agua. 
+Esto puede resultar en sorpresas desagradables como enterarse tarde de un corte de servicio, cuando ya no queda más agua en la reserva.
+
+Ahora imaginá un sistema de información que con la ayuda de sensores, te alerte en tiempo real sobre el nivel de agua de tu tanque y te permita tomar las medidas necesarias, preventivas o correctivas, en el momento oportuno. 
+Esto no solo previene inconvenientes y aumenta la fiabilidad con la que accedemos al agua de nuestros hogares, sino que también abre la puerta a la posibilidad de entender mejor la forma en la que la consumimos.
+
+Mi pasión por mejorar la vida de las personas y mi experiencia en la problemática me convierten en la persona ideal para liderar este proyecto. ¡Espero contar con tu apoyo!
